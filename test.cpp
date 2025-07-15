@@ -6,6 +6,7 @@ int main() {
         cout << "Number: " << i << endl;
     }
     cout << "Loop completed!" << endl;
-    cout << "Program has Ended.";
+    cout << "Program has Ended.";\
+    cout << "Hello world";
     return 0;
 }
